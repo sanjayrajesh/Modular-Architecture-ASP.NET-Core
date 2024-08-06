@@ -11,7 +11,7 @@
 
   <ItemGroup>
     <PackageReference Include="MiniProfiler.AspNetCore.Mvc" Version="4.2.1" />
-    <PackageReference Include="MiniProfiler.EntityFrameworkCore" Version="4.2.1" />
+    <PackageReference Include="MiniProfiler.EntityFrameworkCore" Version="4.3.8" />
     <PackageReference Include="AspNetCore.HealthChecks.SqlServer" Version="3.1.1" />
     <PackageReference Include="AspNetCore.HealthChecks.UI" Version="3.0.11" />
     <PackageReference Include="AspNetCore.HealthChecks.Uris" Version="3.1.2" />
